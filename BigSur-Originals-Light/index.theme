@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BigSur-Originals-Light
+Comment=The light desktop theme with blue highlights for Zorin OS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=BigSur-Originals-Light
+MetacityTheme=BigSur-Originals-Light
+IconTheme=BigSur-Originals-Light
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
