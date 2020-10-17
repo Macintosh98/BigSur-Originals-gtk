@@ -3738,7 +3738,7 @@ stage {
 
 #dashtodockContainer {
   background: transparent;
- border: 8px;
+ border: 10px;
 }
 
 #dashtodockContainer .app-well-app-running-dot {
