@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BigSur-Originals-Shell-40-light
+Comment=An Materia Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=BigSur-Originals-Shell-40-light
+MetacityTheme=BigSur-Originals-Shell-40-light
+IconTheme=Tela-circle
+CursorTheme=Vimix
+ButtonLayout=close,minimize,maximize:menu
